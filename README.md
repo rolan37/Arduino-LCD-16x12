@@ -1,11 +1,11 @@
-# Arduino-LCD-16x12
-Arduino LCD 16x12 and I2C module
+# Arduino-LCD-16x2
+Arduino LCD 16x2 and I2C module
 
 These are library files with the code for LCD 16x12
 One is with direct interfacing using data pins and the other is with the help of i2c module
 
 1) Direct interfacing
- - Use the LCD 16x12 Hello World Code
+ - Use the LCD 16x2 Hello World Code
  - Next is Open and refer to the Diagram for connections 
  - Incase a beginner refer to the youtube video https://youtu.be/AvVBl7gDQm0
  - Done
